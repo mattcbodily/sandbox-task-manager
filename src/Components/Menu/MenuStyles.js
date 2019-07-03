@@ -15,6 +15,7 @@ export const MenuContainer = styled.div`
 
 export const Img = styled.img`
     height: 55px;
+    margin-top: 5px;
     margin-bottom: 10px;
 `
 
